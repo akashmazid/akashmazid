@@ -13,11 +13,11 @@
 
 <hr/>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Akash" alt="Typing SVG" /></a></h3>
 
 <h1 align="center">A passionate Web developer from Bangladesh</h1>
 
-<p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
+<p>👋 Hi there! I'm Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
 
 <h2>💻 What I Do:</h2>
 <ul>
@@ -190,12 +190,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!-- 
 <h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  -->
 
 
 
