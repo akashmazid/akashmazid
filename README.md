@@ -221,7 +221,7 @@
 		  <img src="https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: block;">
 </div>
 <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-sizing: border-box;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false" alt="GitHub Streak" style="width: 100%; display: block;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false" alt="GitHub Streak" style="display: block;">
 </div>
 <div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: block;">
