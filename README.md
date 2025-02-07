@@ -134,7 +134,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://www.mongodb.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
