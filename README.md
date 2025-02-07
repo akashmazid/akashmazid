@@ -11,7 +11,7 @@
 
 <h1 align="center">A passionate Web developer from Bangladesh</h1>
 
-<p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.<br>
+<p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.
 
 <br> 📚 I'm currently learning NextJS.
 <br> 🎯 Goals: Improve full-stack development skills.
