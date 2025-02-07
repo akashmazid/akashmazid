@@ -154,7 +154,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://git-scm.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="git" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -174,7 +174,7 @@
 	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Node Js</td>
 	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">React</td>
 	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Tailwind CSS</td>
-	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Git</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">NextJS</td>
 	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 5;">Figma</td>
 	</tr>
   </tfoot>
