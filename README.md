@@ -13,11 +13,20 @@
 
 <hr/>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Akash" alt="Typing SVG" /></a></h3>
+<div align="center">
+  <img height="350" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />
+</div>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
 
 <h1 align="center">A passionate Web developer from Bangladesh</h1>
 
-<p>👋 Hi there! I'm Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
+<p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.
+<br>- 📚 I'm currently learning NextJS.
+<br>- 🎯Goals: Improve full-stack development skills.
+<br>- 🎲 Fun fact: I love playing cricket and badminton.
+<br>- 📞 Contact Number: +8801882185628
+</p>
 
 <h2>💻 What I Do:</h2>
 <ul>
@@ -27,12 +36,6 @@
   <li><strong>Collaborative Problem Solving:</strong> Working closely with teams to deliver high-quality solutions.</li>
 </ul>
 
-<h2>🔧 Technologies I Use:</h2>
-<ul>
-  <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Frameworks/Libraries:</strong> React, Vue.js, Tailwind CSS</li>
-  <li><strong>Tools:</strong> Git, Webpack, Babel, npm/yarn</li>
-</ul>
 
 <h2>🌟 Passionate About:</h2>
 <ul>
@@ -45,7 +48,7 @@
 
 <hr/>
 
-
+<!--social media table-->
 
 <table style="width: 100%; border-collapse: collapse;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
@@ -111,6 +114,8 @@
 <br/>
 <hr/>
 
+<!--programming language and tools-->
+
 <table style="width: 100%; border-collapse: collapse;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Language+and+Tools" alt="Typing SVG" /></a></h2>
 	<tbody>
@@ -122,17 +127,17 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://www.w3schools.com/css/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="instagram" style="width: 100%; height: auto; display: block;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://getbootstrap.com" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="javascript" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="javascript" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -147,7 +152,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://reactjs.org/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -183,48 +188,16 @@
   </tfoot>
 </table>
 
+
+
+<br/>
+<hr/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- 
+
 <h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  -->
-
-
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulmazidakash&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4) -->
-
-<!--
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=abdulmazidakash&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) -->
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-<img width="100%" src="https://camo.githubusercontent.com/99fe00f82befe4319483c54817d9467ee52eaa4952698442b4afa1af89e7fb0c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d423033413245266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
-
- -->
-
- <img width="100%" src="https://camo.githubusercontent.com/4cbfc234802b906013484b1039a99380184d43ad450ac28f244950299eff7579/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31303076772673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
-
-
- <div style="display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: 10px; width: 100%; ">
-
-<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
-		  <img src="https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: block;">
-</div>
-<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden; box-sizing: border-box;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false" alt="GitHub Streak" style="display: block;">
-</div>
-<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: block;">
-</div>
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
