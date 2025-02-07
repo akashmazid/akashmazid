@@ -182,7 +182,6 @@
 
 <!-- second line  table  -->
 <table style="width: 100%; border-collapse: collapse;">
-	
 	<tbody>
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
