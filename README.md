@@ -1,4 +1,9 @@
+<!-- snake svg image  -->
+<div align="center">
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 <!-- cover image  -->
 <div align="center">
   <img height="350" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />
@@ -272,10 +277,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr/>
-<!-- snake svg image  -->
-<div align="center">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
