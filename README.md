@@ -6,7 +6,7 @@
 </div>
 <!-- cover image  -->
 <div align="center">
-  <img height="350" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />
+  <img height="350" width="100%" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />
 </div>
 
 <!-- readme typing svg  -->
